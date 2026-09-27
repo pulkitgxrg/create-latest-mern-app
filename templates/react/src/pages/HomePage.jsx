@@ -12,7 +12,7 @@ export default function HomePage() {
                 <div className="flex justify-center gap-4">
                     <a href="/signup" className='btn-black'>Get Started</a>
                     <a
-                        href="https://github.com/pulkitgarg04/create-latest-mern-app"
+                        href="https://github.com/pulkitgxrg/create-latest-mern-app"
                         target="_blank"
                         rel="noopener noreferrer"
                         className='btn-outline-pill'
